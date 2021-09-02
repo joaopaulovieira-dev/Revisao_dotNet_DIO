@@ -1,0 +1,16 @@
+D:\OneDrive\Development\csharp-examples-master\03-Classes\03-Classes\Revisao_dotNet_DIO\bin\Debug\net5.0\Revisao_dotNet_DIO.exe
+D:\OneDrive\Development\csharp-examples-master\03-Classes\03-Classes\Revisao_dotNet_DIO\bin\Debug\net5.0\Revisao_dotNet_DIO.deps.json
+D:\OneDrive\Development\csharp-examples-master\03-Classes\03-Classes\Revisao_dotNet_DIO\bin\Debug\net5.0\Revisao_dotNet_DIO.runtimeconfig.json
+D:\OneDrive\Development\csharp-examples-master\03-Classes\03-Classes\Revisao_dotNet_DIO\bin\Debug\net5.0\Revisao_dotNet_DIO.runtimeconfig.dev.json
+D:\OneDrive\Development\csharp-examples-master\03-Classes\03-Classes\Revisao_dotNet_DIO\bin\Debug\net5.0\Revisao_dotNet_DIO.dll
+D:\OneDrive\Development\csharp-examples-master\03-Classes\03-Classes\Revisao_dotNet_DIO\bin\Debug\net5.0\ref\Revisao_dotNet_DIO.dll
+D:\OneDrive\Development\csharp-examples-master\03-Classes\03-Classes\Revisao_dotNet_DIO\bin\Debug\net5.0\Revisao_dotNet_DIO.pdb
+D:\OneDrive\Development\csharp-examples-master\03-Classes\03-Classes\Revisao_dotNet_DIO\obj\Debug\net5.0\Revisao_dotNet_DIO.csproj.AssemblyReference.cache
+D:\OneDrive\Development\csharp-examples-master\03-Classes\03-Classes\Revisao_dotNet_DIO\obj\Debug\net5.0\Revisao_dotNet_DIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Development\csharp-examples-master\03-Classes\03-Classes\Revisao_dotNet_DIO\obj\Debug\net5.0\Revisao_dotNet_DIO.AssemblyInfoInputs.cache
+D:\OneDrive\Development\csharp-examples-master\03-Classes\03-Classes\Revisao_dotNet_DIO\obj\Debug\net5.0\Revisao_dotNet_DIO.AssemblyInfo.cs
+D:\OneDrive\Development\csharp-examples-master\03-Classes\03-Classes\Revisao_dotNet_DIO\obj\Debug\net5.0\Revisao_dotNet_DIO.csproj.CoreCompileInputs.cache
+D:\OneDrive\Development\csharp-examples-master\03-Classes\03-Classes\Revisao_dotNet_DIO\obj\Debug\net5.0\Revisao_dotNet_DIO.dll
+D:\OneDrive\Development\csharp-examples-master\03-Classes\03-Classes\Revisao_dotNet_DIO\obj\Debug\net5.0\ref\Revisao_dotNet_DIO.dll
+D:\OneDrive\Development\csharp-examples-master\03-Classes\03-Classes\Revisao_dotNet_DIO\obj\Debug\net5.0\Revisao_dotNet_DIO.pdb
+D:\OneDrive\Development\csharp-examples-master\03-Classes\03-Classes\Revisao_dotNet_DIO\obj\Debug\net5.0\Revisao_dotNet_DIO.genruntimeconfig.cache
